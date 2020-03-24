@@ -7,7 +7,7 @@
 
 ### 개발진
 - 배포 수정 : [이정인](https://alreadyusedadress.tistory.com/)(인하대 컴퓨터공학과)  
-- 기타 문의: alslahdk@likelion.com
+- 기타 문의: alslahdk@likelion.org
 
 ---
 
