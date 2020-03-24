@@ -6,7 +6,7 @@
 2. [Kakao map API](http://apis.map.kakao.com/)
 
 ### 개발진
-- **[이정인](https://alreadyusedadress.tistory.com/)(인하대 컴퓨터공학과)  
+- 배포 수정 : [이정인](https://alreadyusedadress.tistory.com/)(인하대 컴퓨터공학과)  
 - 기타 문의: alslahdk@likelion.com
 
 ---
