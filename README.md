@@ -33,6 +33,12 @@
 5. 확진자 동선을 GUI로 쉽고 빠르게 추가할 수 있습니다.  
 <img width="720" alt="patient-admin" src="https://user-images.githubusercontent.com/49309450/77252326-79a56c80-6c96-11ea-87e3-e1108a22a4e2.png">  
 
+
+![인천 1](https://user-images.githubusercontent.com/13061461/99525325-00087e80-29dd-11eb-80c9-c5eb2e7d4b94.JPG)
+![인천 2](https://user-images.githubusercontent.com/13061461/99525332-01d24200-29dd-11eb-9985-9251c6db39d4.JPG)
+![인천 3](https://user-images.githubusercontent.com/13061461/99525335-03036f00-29dd-11eb-894f-cb71fa2d8ffb.JPG)
+![인천 4](https://user-images.githubusercontent.com/13061461/99525341-04349c00-29dd-11eb-82cc-b6657d68a016.JPG)
+
 ---
 
 # 이슈 
